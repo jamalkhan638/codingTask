@@ -1,0 +1,19 @@
+.displaydata {
+  background-color: lightgray;
+  padding-top: 20px;
+  height: 100%;
+}
+.displaydata ul li {
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 15px;
+  text-decoration: none;
+  list-style: none;
+}
+.backbtn {
+  color: black;
+  width: 5vw;
+  background: aqua;
+  border-radius: 5px;
+  float: left;
+}
